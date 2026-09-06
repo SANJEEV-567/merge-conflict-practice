@@ -1,4 +1,2 @@
 My Tasks
-1. Study Git
-2. Complete assignment
-3. Review notes
+1. Watch git Tutorial
